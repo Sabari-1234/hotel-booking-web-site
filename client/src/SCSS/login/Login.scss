@@ -1,0 +1,12 @@
+@import './common/width','./components/Signin','./components/Form';
+
+.background{
+    // background-image: url('https://www.shutterstock.com/image-vector/lets-travel-world-tour-vector-260nw-1973329529.jpg');
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    background-color: black;
+}
+.login{
+width: $width;
+height: 70px;
+}
